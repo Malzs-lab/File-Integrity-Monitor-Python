@@ -30,3 +30,8 @@ Um sistema defensivo desenvolvido em Python para monitorar a integridade de arqu
    python monitor_visual.py
    ```
 5. Clique em Iniciar Monitoramento e faça um teste alterando uma única letra do seu arquivo de texto para ver o sistema disparar os alertas em tempo real no terminal e mudar o status da tela para vermelho!
+
+6. Contribuidores e Agradecimentos
+
+* Malzs (Dev Principal)
+* Google Gemini (Copiloto de IA - Refatoração e tratamento de exceções)
